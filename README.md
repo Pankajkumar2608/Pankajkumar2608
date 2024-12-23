@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Pankajkumar2608
 - 👀 I’m interested in development
-- 🌱 I’m currently learning python,andriod development 
-- 💞️ I’m looking to collaborate on andriod development 
+- 🌱 I’m currently learning backend.
+- 💞️ I’m looking to collaborate on projects. 
 - 📫 How to reach me on my instagram handle @pankaj_j_a_a_t
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a engineer 
 
 <!---
