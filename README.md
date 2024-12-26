@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Pankajkumar2608
-- 👀 I’m interested in development
-- 🌱 I’m currently learning backend.
-- 💞️ I’m looking to collaborate on projects. 
-- 📫 How to reach me on my instagram handle @pankaj_j_a_a_t
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a engineer 
+👋 Hi, I'm Pankaj Kumar!
+🎯 About Me:
+👀 Passionate about development with a knack for solving real-world problems through technology.
+🌱 Currently diving deep into backend development to build scalable and efficient systems.
+💞️ Open to collaborating on exciting projects in Android, web development, or anything innovative!
+⚡ Fun Fact: I’m not just an engineer; I’m a coffee-fueled problem solver!
 
 <!---
 Pankajkumar2608/Pankajkumar2608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
