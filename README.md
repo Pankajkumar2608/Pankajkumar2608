@@ -1,11 +1,33 @@
-👋 Hi, I'm Pankaj Kumar!
-🎯 About Me:
-👀 Passionate about development with a knack for solving real-world problems through technology.
-🌱 Currently diving deep into backend development to build scalable and efficient systems.
-💞️ Open to collaborating on exciting projects in Android, web development, or anything innovative!
-⚡ Fun Fact: I’m not just an engineer; I’m a coffee-fueled problem solver!
+# 👋 Hi, I'm Pankaj Kumar!  
 
-<!---
-Pankajkumar2608/Pankajkumar2608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Developer | Problem Solver | Open Source Enthusiast**  
+
+## 🎯 About Me  
+🔹 Passionate about building real-world solutions with technology.  
+🔹 Currently diving deep into **backend development** to create scalable and efficient systems.  
+🔹 Experienced in **Android development, web development**, and always eager to learn new tech!  
+🔹 Love collaborating on open-source projects and contributing to the dev community.  
+---
+
+## 💻 Tech Stack  
+🔹 **Languages:** Kotlin, Java, JavaScript, Python  
+🔹 **Frontend:** React, HTML, CSS, Tailwind, Next.js, React 
+🔹 **Backend:** Node.js, Express, Flask  
+🔹 **Databases:** PostgreSQL, MongoDB  
+🔹 **Tools & Platforms:** Git, Docker, Prisma, Firebase, OpenAI API  
+
+---
+
+## 🚀 Open Source Contributions  
+🏆 Contributor at **[AnkiDroid](https://github.com/ankidroid/Anki-Android)** 📚  
+💡 Always looking for more exciting open-source projects to contribute to!  
+
+---
+
+## 📫 Let's Connect!  
+🔗 **GitHub:** [Pankajkumar2608](https://github.com/Pankajkumar2608)  
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/pankaj-jaat/)  
+🔗 **X:** [Your Twitter Handle](https://x.com/PankajJaat96106)  
+
+💬 Feel free to reach out for **collaborations, open-source projects, or just tech discussions!** 🚀  
+
