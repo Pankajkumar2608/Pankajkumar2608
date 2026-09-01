@@ -26,8 +26,8 @@
 
 ## 📫 Let's Connect!  
 🔗 **GitHub:** [Pankajkumar2608](https://github.com/Pankajkumar2608)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/pankaj-jaat/)  
-🔗 **X:** [Your Twitter Handle](https://x.com/PankajJaat96106)  
+🔗 **LinkedIn:** [pankaj](https://www.linkedin.com/in/pankaj-jaat/)  
+🔗 **X:** [itzpankaj](https://x.com/itzPankajkoder)  
 
 💬 Feel free to reach out for **collaborations, open-source projects, or just tech discussions!** 🚀  
 
