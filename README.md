@@ -1,33 +1,20 @@
-# 👋 Hi, I'm Pankaj Kumar!  
+# Hi, I'm Pankaj 👋
 
-🚀 **Developer | Problem Solver | Open Source Enthusiast**  
+I'm a developer who enjoys building useful products and learning by working on real projects.
 
-## 🎯 About Me  
-🔹 Passionate about building real-world solutions with technology.  
-🔹 Currently diving deep into **backend development** to create scalable and efficient systems.  
-🔹 Experienced in **Android development, web development**, and always eager to learn new tech!  
-🔹 Love collaborating on open-source projects and contributing to the dev community.  
----
+I mainly work with:
 
-## 💻 Tech Stack  
-🔹 **Languages:** Kotlin, Java, JavaScript, Python  
-🔹 **Frontend:** React, HTML, CSS, Tailwind, Next.js, React 
-🔹 **Backend:** Node.js, Express, Flask  
-🔹 **Databases:** PostgreSQL, MongoDB  
-🔹 **Tools & Platforms:** Git, Docker, Prisma, Firebase, OpenAI API  
+- **Languages:** Kotlin, Java, JavaScript, and Python
+- **Frontend:** React, Next.js, HTML, CSS, and Tailwind CSS
+- **Backend:** Node.js, Express, and Flask
+- **Databases:** PostgreSQL and MongoDB
+- **Tools:** Git, Docker, Prisma, Firebase, and OpenAI APIs
 
----
+I'm currently focusing more on backend development and scalable applications. I also enjoy backend development and contributing to open source.
 
-## 🚀 Open Source Contributions  
-🏆 Contributor at **[AnkiDroid](https://github.com/ankidroid/Anki-Android)** 📚  
-💡 Always looking for more exciting open-source projects to contribute to!  
+## Connect with me
 
----
+- [LinkedIn](https://www.linkedin.com/in/pankaj-jaat/)
+- [X](https://x.com/itzPankajkoder)
 
-## 📫 Let's Connect!  
-🔗 **GitHub:** [Pankajkumar2608](https://github.com/Pankajkumar2608)  
-🔗 **LinkedIn:** [pankaj](https://www.linkedin.com/in/pankaj-jaat/)  
-🔗 **X:** [itzpankaj](https://x.com/itzPankajkoder)  
-
-💬 Feel free to reach out for **collaborations, open-source projects, or just tech discussions!** 🚀  
-
+I'm always open to learning, collaborating, and working on interesting projects.
